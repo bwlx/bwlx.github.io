@@ -9,3 +9,14 @@ spring boot 也用过，不是很熟练。用脚手架生成项目源文件，�
 
 <img src="/assets/img/tomcat-server-config.jpg" alt="tomcat server config"
 	title="tomcat server config" width="400" height="100" />
+
+spring boot 更简单，只需引入 `spring-boot-devtools` 依赖，每次修改文件后，Build 即可
+
+```
+    <dependency>
+      <groupId>org.springframework.boot</groupId>
+      <artifactId>spring-boot-devtools</artifactId>
+      <scope>runtime</scope>
+      <optional>true</optional>
+    </dependency>
+```

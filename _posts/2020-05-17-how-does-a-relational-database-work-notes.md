@@ -30,3 +30,13 @@ ifeve.com
 https://coderbee.net/
 小米信息部技术团队 https://xiaomi-info.github.io/2019/12/17/redis-distributed-lock/
 Log4j Audit
+x-dead-letter-exchange
+Hawstein's Blog
+http://mindwind.me/
+http://blog.fnil.net/blog/archives/ 庄周梦蝶
+
+spring-mybatis
+Andrew NG
+mit 6.824
+thread 状态
+thread pool 里的 thread 状态转换
