@@ -40,3 +40,7 @@ Andrew NG
 mit 6.824
 thread 状态
 thread pool 里的 thread 状态转换
+how tomcat works
+https://pingcap.com/blog-cn/tikv-source-code-reading-20/
+https://www.cnblogs.com/xiaobingblog/tag/mybatis%E6%BA%90%E7%A0%81/ mybatis 源码
+linux expect
